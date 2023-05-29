@@ -1,0 +1,2 @@
+Este es un ejercicio práctico de Git.
+Archivo 1
